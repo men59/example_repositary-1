@@ -1,5 +1,3 @@
-# example_repositary
+# ÚKOL č. 3
 
-Nový repozitář.
-Druhý řádek.
-Tředí řdáek.
+Do větve `main` zamerguj větev `task_3`.
