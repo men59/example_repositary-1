@@ -1,3 +1,7 @@
-# ÚKOL č. 3
+# ÚKOL č.1
 
-Do větve `main` zamerguj větev `task_3`.
+Vytvoř si fork tohoto repozitáře k sobě na účet.
+
+# ÚKOL č. 2
+
+Ve větvi `main` vytvoř nový soubor `hello_world.py` a do něj napiš kód, který vypíše "Hello World!" do konzole. Tento soubor commitni a pushni do vzdáleného repozitáře.
